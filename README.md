@@ -1,8 +1,8 @@
-##Foro Java Spring Boot
+## Foro Java Spring Boot
 
 Este es un foro creado con Java utilizando el framework Spring Boot 3, Spring Security, MySQL como base de datos, JPA para el mapeo objeto-relacional y Maven como gestor de dependencias. El patrón de diseño utilizado es el Repository.
 
-##Requisitos
+## Requisitos
 
 - Java 17 o superior
 - Spring , SpringBoot 3.x o superior
