@@ -4,7 +4,7 @@
     <persistence-units>
       <persistence-unit name="Default">
         <packages>
-          <package value="com.alura.challenge_foro_hub" />
+          <package value="com.alura.challenge_foro" />
         </packages>
       </persistence-unit>
     </persistence-units>
